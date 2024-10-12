@@ -33,7 +33,3 @@ To prove that cxapi Loader is safe and functional, watch our demonstration video
 2. Ensure Roblox is running.
 3. Click on "Inject" to inject the DLL.
 4. Enter your script in the provided text box and click "Execute" to run the script.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
