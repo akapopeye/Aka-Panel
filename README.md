@@ -17,8 +17,8 @@ Aka Panel is a free and safe executor designed for Roblox. It allows users to ex
 ## Video Demonstration
 
 To prove that cxapi Loader is safe and functional, watch our demonstration video here: 
-[Link](https://www.mediafire.com/file/e7bqvscxgp6h3uj/ProofVideo.mkv/file)
-[File](https://download847.mediafire.com/cbfzoqv306cgM_-H93tc5R1Y-6V3Lu_S3KabEefwVBs3B6Zpz49JhN767M8BsEKVWoch-U4lz5yUClHhID3KrCOdm8mPFUbswISZX_RO5FwHpXEVPxsUnXTivugwdaENFjIG0weHf2o91XqWbduSRzktyzY31ojcx-u6usT3/e7bqvscxgp6h3uj/ProofVideo.mkv)
+- [Link](https://www.mediafire.com/file/e7bqvscxgp6h3uj/ProofVideo.mkv/file)
+- [File](https://download847.mediafire.com/cbfzoqv306cgM_-H93tc5R1Y-6V3Lu_S3KabEefwVBs3B6Zpz49JhN767M8BsEKVWoch-U4lz5yUClHhID3KrCOdm8mPFUbswISZX_RO5FwHpXEVPxsUnXTivugwdaENFjIG0weHf2o91XqWbduSRzktyzY31ojcx-u6usT3/e7bqvscxgp6h3uj/ProofVideo.mkv)
 
 ## Installation
 
